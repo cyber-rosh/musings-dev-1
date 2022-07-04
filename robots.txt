@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://cyber-rosh.github.io/musings-dev-1/sitemap.xml
